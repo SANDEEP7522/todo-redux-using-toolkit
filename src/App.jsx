@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-     <div>Todo-App-Redux</div>
+     <h1>Todo-App-Redux </h1>
      <TodoInput />
      <TodoList />
     </>
